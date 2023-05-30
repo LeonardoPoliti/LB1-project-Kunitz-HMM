@@ -1,1 +1,1 @@
-# LB1-project-Kunitz-HMM
+# LB1-Kunitz-HMM
