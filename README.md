@@ -6,4 +6,4 @@ Two models were generated and for each one, the datasets used for the training a
 
 The python script was used for the final evaluation and visualization of the performance of the models.
 
-More information can be found in the paper: LINK  
+More detailed information can be found in the project report: LB1_hmmKunitz_report.pdf
